@@ -1,3 +1,13 @@
+# intro
+This GitHub repository was cloned to test Text-to-SQL using DAIL-SQL, and it is noted that the copyright belongs to the original DAIL-SQL project mentioned below.
+
+
+
+
+
+
+
+
 # DAIL-SQL
 
 DAIL-SQL is a highly effective and efficient approach for optimizing the utilization of LLM on Text-to-SQL.
